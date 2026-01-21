@@ -274,7 +274,7 @@
                               className: "text-white mt-30 d-flex align-items-start gap-2",
                               children: [
                                 (0, i.jsx)("img", {
-                                  src: "/assets/imgs/contact-4/Flag of UK.png",
+                                  src: "https://www.flaginstitute.org/wp/flags/united-kingdom-flag/",
                                   alt: "UK",
                                   width: 20,
                                   height: 14,
@@ -288,7 +288,7 @@
                               className: "text-white mt-30 d-flex align-items-start gap-2",
                               children: [
                                 (0, i.jsx)("img", {
-                                  src: "/assets/imgs/contact-4/Flag of UK.png",
+                                  src: "https://www.flaginstitute.org/wp/flags/united-kingdom-flag/",
                                   alt: "UK",
                                   width: 20,
                                   height: 14,
